@@ -1,4 +1,4 @@
-# 7DaysofCode
+# 7DaysOfCode
 ## Desafio JavaScript
 
 - Realizar um projeto por dia
